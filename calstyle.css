@@ -39,7 +39,7 @@ input{
 
 }
 input::placeholder{
-    color:white ;
+    color: red;
 
 }
 button{
